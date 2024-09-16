@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="clique_aqui">Clique aqui</string>
+    <string name="clique_no_botao_abaixo">Clique no botão abaixo</string>
+</resources>
